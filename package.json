@@ -1,0 +1,29 @@
+{
+  "name": "njs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-hbs": "^1.0.4",
+    "graceful-fs": "^4.1.11",
+    "jsonwebtoken": "^8.3.0",
+    "morgan": "^1.9.0",
+    "mysql2": "^1.5.3",
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "readdirp": "^2.1.0",
+    "sequelize": "^4.38.0",
+    "socket.io": "^2.1.1",
+    "sqlite3": "^4.0.1",
+    "tedious": "^2.6.3"
+  }
+}
